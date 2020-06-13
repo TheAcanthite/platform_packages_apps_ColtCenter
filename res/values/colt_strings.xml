@@ -73,11 +73,11 @@
 
   <!-- Device Feature -->
   <string name="device_part_title">OnePlus Love</string>
-  <string name="device_part_summary">OnePlus Speicific Features</string>
+  <string name="device_part_summary">OnePlus Specific Features</string>
 
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-  <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
+  <string name="lockscreen_battery_info_summary">Display current, voltage and battery temperature on lockscreen while charging</string>
 
   <!-- Statusbar Tuner -->
   <string name="statusbar_items_title">Statusbar items</string>
@@ -432,7 +432,7 @@
 
     <!-- Battery mode -->
     <string name="battery_mode_title">Battery Styles</string>
-    <string name="battery_mode_summary">config sb n qs battery mode</string>
+    <string name="battery_mode_summary">Configure QS/SB Battery</string>
     <string name="battery_percentage_title">Battery percentage</string>
     <string name="qs_battery_percentage_title">QS Battery Style</string>
     <string name="battery_percentage_off">Disabled</string>
@@ -469,7 +469,7 @@
 
     <!-- Powermunu Background -->
     <string name="power_menu_bg_title">Background Filter</string>
-    <string name="power_menu_bg_summary">Enables Custom filter when powermenu is active</string>
+    <string name="power_menu_bg_summary">Enables Custom filter when power menu is active</string>
     <string name="power_menu_bg_style_title">Filter Type</string>
 
     <!-- Volume Steps Fragment -->
@@ -1198,7 +1198,7 @@
 
     <!-- Theme Reset Option -->
     <string name="theme_option_reset_title">Reset Theme Options</string>
-    <string name="theme_option_reset_message">Are you sure you want to reset themes-accent to default?</string>
+    <string name="theme_option_reset_message">Are you sure you want to reset the theme & accent?</string>
 
     <!-- FOD pressed state behavior -->
     <string name="fod_pressed_state_title">FOD pressed state behavior</string>
